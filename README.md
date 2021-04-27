@@ -14,7 +14,7 @@
 ##### 9. [轻量级评论输入框,支持多种样式,支持占位符设置等等!](https://github.com/CoderZhuXH/XHInputView.git)<br/>
 ##### 10. [一行代码创建自定义TabBar,支持小红点,数字角标及自定义高度](https://github.com/CoderZhuXH/XHTabBarSwift.git)<br/>
 ##### 11. [一行代码添加文本点击事件](https://github.com/lyb5834/YBAttributeTextTapAction)<br/>
-##### 12. TLCoreTextMore  ［查看更多］、[点击收起](https://github.com/zhouande/TLCoreTextMore.git)<br/>
+##### 12. [TLCoreTextMore 查看更多 点击收起](https://github.com/zhouande/TLCoreTextMore.git)<br/>
 
 
 <br/><br/><br/><br/><br/><br/>
