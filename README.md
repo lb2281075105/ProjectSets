@@ -18,6 +18,10 @@
 ##### 13. [LJContanctManager 是一款操作通讯录的类库，iOS 9 之前使用的是 AddressBook 和 AddressBookUI 系统库，iOS 9 之后使用苹果新推出的 Contacts 和 ContactsUI 框架，一行代码搞定通讯录。](https://github.com/leejayID/LJContactManager.git)<br/>
 ##### 14. [一个简单的iOS照片和视频浏览器，可选的网格视图，标题和选择。](https://github.com/mwaterfall/MWPhotoBrowser.git)<br/>
 ##### 15. [BGFMDB让数据的增删改查分别只需要一行代码即可,就是这么简单任性.](https://github.com/huangzhibiao/BGFMDB.git)<br/>
+##### 16. [仿写微信朋友圈，高度还原，纵向丝滑](https://github.com/Hurdery/SilkyWXList.git)<br/>
+##### 17. [音视频边播边缓存框架  只需`pod`即可自带全屏返回手势. 支持pod. 支持OC&Swift.  ](https://github.com/changsanjiang/SJPageViewController.git)<br/>
+##### 18. [郸城头条项目-Swift](https://github.com/Light413/dctt.git)<br/>
+
 
 <br/><br/><br/><br/>
 
